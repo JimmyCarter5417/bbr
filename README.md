@@ -9,6 +9,5 @@ system required:
 
 usage:  
 ```
-chmod +x bbr.sh  
 sudo ./bbr.sh  
 ```
