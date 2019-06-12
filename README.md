@@ -10,5 +10,5 @@ system required:
 usage:  
 ```
 chmod +x bbr.sh  
-./bbr.sh  
+sudo ./bbr.sh  
 ```
